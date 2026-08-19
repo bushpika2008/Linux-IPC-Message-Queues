@@ -100,9 +100,6 @@ int main(int argc, char *argv[]) {
 
 <img width="670" height="497" alt="image" src="https://github.com/user-attachments/assets/d58cd29e-5076-45b6-a279-90f0ccc1b6f1" />
 
-## RESULT 
- Thus the program has been executed successfully
-
 
 # RESULT:
 The programs are executed successfully.
